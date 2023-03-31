@@ -1,7 +1,7 @@
 # poc-reactportal
 basic example of react portal
 
-##install packages
+## install packages
 npm install
 
 ## run development POC
